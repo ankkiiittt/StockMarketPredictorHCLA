@@ -1,3 +1,15 @@
+---
+title: Hybrid HCLA Stock & Volatility Predictor
+emoji: ⚡
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+sdk_version: 1.38.0
+app_file: frontend.py
+pinned: false
+license: mit
+---
+
 # 📈 Hybrid HCLA Volatility & Stock Price Predictor
 
 An advanced AI-powered stock forecasting and volatility prediction dashboard. This project implements a **Hybrid CNN-LSTM Attention (HCLA)** deep learning architecture combined with **Variational Mode Decomposition (VMD)** for noise reduction, alongside multi-model benchmarking (Vanilla LSTM & ARIMA) and real-time news sentiment analysis.
